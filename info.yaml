@@ -1,6 +1,6 @@
-,# Tiny Tapeout project information
+# Tiny Tapeout project information
 project:
-  title:        "tt_um_example"      # Project title
+  title:        "Verilog_unique_gates"      # Project title
   author:       "Deniz Ozenli"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Trial"      # One line description of what your project does

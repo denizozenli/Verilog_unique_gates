@@ -1,6 +1,5 @@
-# Tiny Tapeout project information
+,# Tiny Tapeout project information
 project:
-  wokwi_id:     0 
   title:        "tt_um_example"      # Project title
   author:       "Deniz Ozenli"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)

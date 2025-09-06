@@ -1,6 +1,7 @@
 # Tiny Tapeout project information
 project:
-  wokwi_id:     0     # Project title
+  title:        Verilog_unique_gates   # Project Title
+  wokwi_id:     0    
 
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.

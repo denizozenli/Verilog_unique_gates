@@ -22,4 +22,4 @@ project:
     - "project.v"
 
 # Do not change!
-yaml_version: 6
+yaml_version: 4

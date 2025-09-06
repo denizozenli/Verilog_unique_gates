@@ -1,8 +1,13 @@
 # Tiny Tapeout project information
 project:
-  title:        Verilog_unique_gates   # Project Title
-  wokwi_id:     0    
-
+  wokwi_id:     0 
+  title:        "tt_um_example"      # Project title
+  author:       "Deniz Ozenli"      # Your name
+  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "Trial"      # One line description of what your project does
+  language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
+  clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
+    
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
